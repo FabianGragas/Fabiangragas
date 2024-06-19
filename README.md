@@ -1,4 +1,8 @@
 ## Hi there 👋
+## My Name is Fabian. I am currently a student at the Technsiche Hochschule Ost-Westfahlenlippe in the LIfe Science department. 
+## I am intersted in many sports, but i also like to enjoy my Freetime gaming or a little bit of programming. For the PRogramming i mostly sue Python. 
+## I´m currently learning in server settings in the gaming section.
+## I´m currently working on Gaschromatographie with H2 and N2. 
 
 <!--
 **FabianGragas/Fabiangragas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
